@@ -7,7 +7,6 @@ export default function App() {
     return (
         <div className="main">
             <Header />
-            <h2>One Stop Shop App</h2>
 
             <Cars/>
         </div>
